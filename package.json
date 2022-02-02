@@ -78,6 +78,7 @@
     "node": ">=6.0.0"
   },
   "dependencies": {
+    "pdf.js": "^0.1.0",
     "tsickle": "^0.39.1"
   }
 }
